@@ -50,7 +50,7 @@ Host github.com-vijaygitaccount
   IdentityFile ~/.ssh/vijay.pem
 ```
 
-~ --> /c/Users/user
+~ --> /c/OneDrive/desktop/repos/concepts
 
 #### below line tells you are referring to another github account
 git remote add origin git@github.com-t:sivadevopsdaws74s/concepts.git
